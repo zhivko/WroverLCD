@@ -16,7 +16,7 @@
 #include "sdkconfig.h"
 //#include "HardwareSerial.h"
 
-#include "arduino.h"
+//#include "arduino.h"
 
 /*SPI Includes*/
 #include "driver/spi_master.h"
